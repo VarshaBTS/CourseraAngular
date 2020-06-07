@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { Comment } from '../shared/comment';
+import { Dish } from '../shared/dish';
 
 
 const DISH = {
